@@ -1,0 +1,12 @@
+.d_none {
+    display: none;
+}
+.error {
+    color: red;
+}
+td.td_date {
+    width: 100px;
+}
+.spinner {
+    height: 36px;
+}
